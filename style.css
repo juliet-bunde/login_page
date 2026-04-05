@@ -4,7 +4,7 @@ body{
 }
 
 .image-container{
-    background-image:url(/Mountain.jpg.jpg);
+    background-image:url(Image/Mountain.jpg.jpg);
     background-size:cover;
     background-position:center;
 }
@@ -13,3 +13,5 @@ h1{
     color:#fff;
     font-size:25px;
 }
+
+
